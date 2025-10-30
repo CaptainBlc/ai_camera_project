@@ -1,0 +1,26 @@
+﻿<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Soyut arka plan">
+  <defs>
+    <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 200) rotate(45) scale(260 220)">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(380 380) rotate(-30) scale(280 240)">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#g1)"/>
+  <rect width="600" height="600" fill="url(#g2)"/>
+  <g opacity=".3" stroke="currentColor">
+    <circle cx="300" cy="300" r="120" stroke="#8B5CF6" stroke-dasharray="6 10" />
+    <circle cx="300" cy="300" r="180" stroke="#22D3EE" stroke-dasharray="10 14" />
+    <circle cx="300" cy="300" r="240" stroke="#94A3B8" stroke-dasharray="14 18" />
+  </g>
+  <filter id="blur" x="-50" y="-50" width="700" height="700">
+    <feGaussianBlur stdDeviation="20"/>
+  </filter>
+  <g filter="url(#blur)">
+    <circle cx="140" cy="420" r="60" fill="#F59E0B" opacity=".25"/>
+    <circle cx="480" cy="140" r="48" fill="#10B981" opacity=".25"/>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ad Soyad 1",
+    "role": "Proje YÃ¶neticisi",
+    "bio": "Proje planlama, akademik koordinasyon ve dÄ±ÅŸ paydaÅŸ iletiÅŸimi.",
+    "email": "info@example.com",
+    "linkedin": "https://www.linkedin.com/in/example1/",
+    "github": "https://github.com/example1"
+  },
+  {
+    "name": "Ad Soyad 2",
+    "role": "Makine Ã–ÄŸrenmesi MÃ¼hendisi",
+    "bio": "DÃ¼ÅŸÃ¼k Ä±ÅŸÄ±k iyileÅŸtirme ve sÃ¼per Ã§Ã¶zÃ¼nÃ¼rlÃ¼k modelleri.",
+    "email": "info@example.com",
+    "linkedin": "https://www.linkedin.com/in/example2/",
+    "github": "https://github.com/example2"
+  },
+  {
+    "name": "Ad Soyad 3",
+    "role": "GÃ¶rÃ¼ntÃ¼ Ä°ÅŸleme UzmanÄ±",
+    "bio": "Ã–zellik Ã§Ä±karÄ±mÄ±, renk dengesi ve gÃ¼rÃ¼ltÃ¼ azaltma.",
+    "email": "info@example.com",
+    "linkedin": "https://www.linkedin.com/in/example3/",
+    "github": "https://github.com/example3"
+  },
+  {
+    "name": "Ad Soyad 4",
+    "role": "Backend MÃ¼hendisi",
+    "bio": "API tasarÄ±mÄ±, gÃ¼venli veri iÅŸleme ve daÄŸÄ±tÄ±m.",
+    "email": "info@example.com",
+    "linkedin": "https://www.linkedin.com/in/example4/",
+    "github": "https://github.com/example4"
+  },
+  {
+    "name": "Ad Soyad 5",
+    "role": "Frontend / UI",
+    "bio": "EtkileÅŸimli, eriÅŸilebilir ve performanslÄ± arayÃ¼zler.",
+    "email": "info@example.com",
+    "linkedin": "https://www.linkedin.com/in/example5/",
+    "github": "https://github.com/example5"
+  }
+]
